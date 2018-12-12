@@ -1,0 +1,17 @@
+*.py[co]
+.ipynb_checkpoints
+# Packages
+*.png
+*.jpg
+*.csv
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+
+#Translations
+
